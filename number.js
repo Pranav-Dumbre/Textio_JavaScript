@@ -5,6 +5,7 @@ Contrast this to JavaScript where all numbers are just a Number type.
 let x = 2; // this is a number
 x = 5.69; // this is also a number
 x = -5.42; // still a number
+console.log(" x:",x);
 //example :
 const promoMessages = 12;
 const reminderMessages = 15;
