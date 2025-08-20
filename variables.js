@@ -12,3 +12,14 @@ console.log("nothing is a " + typeof nothing);
 // hasPermission is a boolean
 // username is a string
 // nothing is a undefined
+
+/**
+ * number
+ * bigInt
+ * string
+ * boolean 
+ * null
+ * undefined
+ * symbol (unique)
+ * object
+ */
