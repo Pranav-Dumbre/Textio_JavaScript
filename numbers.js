@@ -9,8 +9,8 @@ console.log(typeof count);
 console.log(count.toString().length);
 console.log(count.toFixed(2));
 
-const num2 = 54.8632
-console.log(num2.toPrecision(3));
+const num2 = 54.8632111
+console.log(num2.toPrecision(2));
 
 
 let balance = 10335565567;

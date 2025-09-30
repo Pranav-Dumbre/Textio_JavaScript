@@ -1,6 +1,6 @@
 // undeclared vs undefined vs null
 //1.undeclared - we havent created a varible , not even a name
-console.log(x);//referenceError : x is not defined
+//console.log(x);//referenceError : x is not defined
 
 //2.undefined - variable is declared but it doesnt have value
 //value doesnt exists at all
@@ -11,6 +11,6 @@ console.log(bufferCount);//undefined
 //needs to be explicitly assign a value to null unlike undefined
 let username= null;
 console.log(username);//null
-console.log(typeof null);//object
+console.log(typeof username);//object
 
 

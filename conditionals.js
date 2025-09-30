@@ -62,4 +62,3 @@ const number1 = new Number(3);
 const number2 = new Number(3);
 number1 == 3; // true
 number1 == number2; // false Object: return true only if both operands reference the same object.
-

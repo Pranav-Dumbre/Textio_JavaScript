@@ -1,4 +1,4 @@
-var smsSendingLimit =200;
+var smsSendingLimit =20088768767887678687687687786786876;
 var hasPermission = true;
 var username = "Pranav";
 var nothing = undefined;
